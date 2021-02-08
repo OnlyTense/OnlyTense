@@ -12,7 +12,7 @@ let onlytense = `dude addicted to flight-simming`;
 ```
 
 ## Github Stats
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=OnlyTense&color=green)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OnlyTense&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
