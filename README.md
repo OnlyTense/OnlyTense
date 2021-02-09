@@ -20,6 +20,6 @@ let onlytense = `dude addicted to flight-simming`;
 
 > - 🔭 I’m currently working on the FlyTense Discord Bot & StonkBot. 👀
 > - 🌱 I’m currently learning more JavaScript and HTML.
-> - 👯 I’m looking to collaborate on Discord Bots (for fun).
+> - 👯 I’m looking to collaborate on an open-source Discord.JS bot.
 > - 📫 How to reach me: Discord, OnlyTense#0001.
 > - ✈ My favorite hobby is flight simming and plane-spotting.
