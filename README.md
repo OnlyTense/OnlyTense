@@ -8,7 +8,7 @@
 const onlytense = require('school.js')
 ```
 ```js
-let onlytense = `dude addicted to flight-simming`;
+let onlytense = dude addicted to flight-simming;
 ```
 
 ## Github Stats
