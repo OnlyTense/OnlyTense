@@ -11,7 +11,7 @@ const onlytense = require('school.js')
 let onlytense = dude addicted to flight-simming;
 ```
 
-## Github Stats
+## GitHub Statistics
 ![](https://komarev.com/ghpvc/?username=OnlyTense&color=green)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OnlyTense&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
@@ -19,7 +19,7 @@ let onlytense = dude addicted to flight-simming;
 ## About me
 
 > - 🔭 I’m currently working on the FlyTense Discord Bot & StonkBot. 👀
-> - 🌱 I’m currently learning more JavaScript and HTML.
+> - 🌱 I’m currently learning more of JavaScript and HTML.
 > - 👯 I’m looking to collaborate on an open-source Discord.JS bot.
-> - 📫 How to reach me: Discord, OnlyTense#0001.
-> - ✈ My favorite hobby is flight simming and plane-spotting.
+> - 📫 How to reach me: Discord, OnlyTense#2485.
+> - ✈ My favorite hobbies are flight simming and plane-spotting.
