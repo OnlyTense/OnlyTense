@@ -21,5 +21,5 @@ let onlytense = dude addicted to flight-simming;
 > - 🔭 I’m currently working on the FlyTense Discord Bot & StonkBot. 👀
 > - 🌱 I’m currently learning more of JavaScript and HTML.
 > - 👯 I’m looking to collaborate on an open-source Discord.JS bot.
-> - 📫 How to reach me: Discord, OnlyTense#2485.
+> - 📫 How to reach me: Discord, OnlyTense#0001.
 > - ✈ My favorite hobbies are flight simming and plane-spotting.
