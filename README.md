@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> Hello, I am an aviation enthusiast who loves to code, especially discord bots! I mainly use JS although I am currently learning HTML. My DMs on Discord are currently off (OnlyTense#2485) but you can either spot me in the [MSFS Official Server](https://discord.gg/msfs) or [my server](https://discord.gg/NbxUk4TsnV)! Happy coding :)
+> Hello, I am an aviation enthusiast who loves to code, especially discord bots! I mainly use JS although I am currently learning HTML. My DMs on Discord are currently off (OnlyTense#0001) but you can either spot me in the [MSFS Official Server](https://discord.gg/msfs) or [my server](https://discord.gg/7qEK9TDEbx)! Happy coding :)
 
 ```js
 const onlytense = require('school.js')
